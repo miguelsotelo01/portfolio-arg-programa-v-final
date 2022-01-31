@@ -1,0 +1,49 @@
+.perfil {
+    border-radius: 50%;
+}
+.img-fluid {
+    border-radius: 15px;
+}
+.informacion {
+    border: 1px solid grey;
+    border-radius: 15px;
+    margin: 5px;
+    box-shadow: 2px 4px 15px 0 white;
+}
+.exp {
+    border: 1px solid grey;
+    border-radius: 15px;
+    margin: 5px;
+}
+.acerca {
+    border: 1px solid grey;
+    border-radius: 15px;
+    margin: 5px;
+}
+.educacion {
+    border: 1px solid #808080;
+    border-radius: 15px;
+    margin: 5px;
+}
+.habilidades {
+    border: 1px solid grey;
+    border-radius: 15px;
+    margin: 5px;
+}
+.proyectos {
+    border: 1px solid grey;
+    border-radius: 15px;
+    margin: 5px;
+}
+header {
+    border: 1px solid grey;
+    border-radius: 15px;
+    margin: 5px;
+}
+.perfil {
+    position: relative;
+    bottom: 50px;
+}
+.banner {
+    position: relative;
+}
