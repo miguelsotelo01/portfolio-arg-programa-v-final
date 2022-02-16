@@ -1,4 +1,4 @@
 function mostrarMensaje() {
-    let acercaDe = prompt("Ingrese el valor de Acerca De");
-    document.getElementById("aboutMe").innerHTML = acercaDe;
+    let acercaDe = prompt("nuevo valor");
+    document.getElementById("acerca").innerHTML = acercaDe;
 }
